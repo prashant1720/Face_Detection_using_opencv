@@ -17,6 +17,7 @@ This code use opencv to recognize face in a given picture
   -        cv2.rectangle(img,(x,y),(x+w,y+h),(0,255,0),3)
   -        plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
   # OUTPUT
+  -  ![Facedetect](https://user-images.githubusercontent.com/42214175/70443745-ad310200-1abe-11ea-8e54-a5910ad227b4.png)
   
  
  
